@@ -29,3 +29,5 @@ How to Run Locally
    ```bash
    git clone https://github.com/yourusername/train-map-app.git
    cd train-map-app
+
+![Map Screenshot](./screenshot.png)
