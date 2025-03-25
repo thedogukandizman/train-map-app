@@ -27,7 +27,7 @@ How to Run Locally
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/train-map-app.git
+   git clone https://github.com/thedogukandizman/train-map-app.git
    cd train-map-app
 
 ![Map Screenshot](./screenshot.png)
